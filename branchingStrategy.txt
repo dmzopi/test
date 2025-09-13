@@ -1,0 +1,4 @@
+main – the default and stable development branch
+feature/* – for all new features and enhancements
+release/* – for preparing and testing production releases
+hotfix/* – for urgent bug fixes or patches to production
