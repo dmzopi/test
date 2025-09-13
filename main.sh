@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "main functionality + feature2"
+echo "main functionality + feature1"
